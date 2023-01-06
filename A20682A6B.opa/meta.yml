@@ -1,0 +1,19 @@
+id: A20682A6B
+title: Golden Drink (Serkyem) and Torma Offering
+type: translation
+pechas:
+- I9920AA6A
+- I121142F3
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:46:22.058851
+  last_modified_at: 2023-01-04 11:46:22.058855
+  collections:
+  - Dudjom Lingpa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I9920AA6A/D895: FDA7
+  I121142F3/9804: FDA7
